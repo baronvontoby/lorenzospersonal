@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.1a744ab8.chunk.js",
-    "main.js.map": "/static/js/main.1a744ab8.chunk.js.map",
+    "main.css": "/static/css/main.f23ca823.chunk.css",
+    "main.js": "/static/js/main.1831c4d6.chunk.js",
+    "main.js.map": "/static/js/main.1831c4d6.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.40c2c247.js",
     "runtime~main.js.map": "/static/js/runtime~main.40c2c247.js.map",
-    "static/js/2.452111c4.chunk.js": "/static/js/2.452111c4.chunk.js",
-    "static/js/2.452111c4.chunk.js.map": "/static/js/2.452111c4.chunk.js.map",
+    "static/css/2.873a5115.chunk.css": "/static/css/2.873a5115.chunk.css",
+    "static/js/2.cb36c974.chunk.js": "/static/js/2.cb36c974.chunk.js",
+    "static/js/2.cb36c974.chunk.js.map": "/static/js/2.cb36c974.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.47526f03ef92cc522e1f235b17cffbba.js": "/precache-manifest.47526f03ef92cc522e1f235b17cffbba.js",
+    "precache-manifest.a9b7de0b10d88b8284facc6a86aa930e.js": "/precache-manifest.a9b7de0b10d88b8284facc6a86aa930e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/2.873a5115.chunk.css.map": "/static/css/2.873a5115.chunk.css.map",
+    "static/css/main.f23ca823.chunk.css.map": "/static/css/main.f23ca823.chunk.css.map",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/bamazon.PNG": "/static/media/bamazon.d8c58dac.PNG",
+    "static/media/bike_and_brew.PNG": "/static/media/bike_and_brew.559a51d0.PNG",
+    "static/media/burgerTime.PNG": "/static/media/burgerTime.a720ec14.PNG",
+    "static/media/crystal-game-application.PNG": "/static/media/crystal-game-application.25f060cf.PNG",
+    "static/media/disney-gif-application.PNG": "/static/media/disney-gif-application.0134be74.PNG",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/friendFinder.PNG": "/static/media/friendFinder.c7abe96b.PNG",
+    "static/media/App.css": "/static/media/italy_big.29811867.jpg",
+    "static/media/liri.PNG": "/static/media/liri.40b32b7a.PNG",
+    "static/media/lorenzo1.jpg": "/static/media/lorenzo1.c87d0112.jpg",
+    "static/media/pugs.PNG": "/static/media/pugs.66e4ea67.PNG",
+    "static/media/train-time-application.PNG": "/static/media/train-time-application.6d9b828d.PNG"
   }
 }
