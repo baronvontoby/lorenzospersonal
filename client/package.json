@@ -1,7 +1,7 @@
 {
   "name": "lorenzospersonal",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "mdbreact": "^4.19.1",
     "react": "^16.9.0",
