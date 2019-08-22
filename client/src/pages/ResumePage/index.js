@@ -3,6 +3,9 @@ import { MDBJumbotron, MDBBtn, MDBContainer, MDBRow, MDBCol, MDBIcon, MDBCardBod
 import './ResumePage.css';
 
 const ResumePage = () => {
+
+
+
   return (
     <MDBContainer className="mt-5 text-center">
       <MDBRow>
@@ -183,8 +186,8 @@ const ResumePage = () => {
                   outline
                   color="primary"
                   className="waves-effect"
-                  href='../../assets/LorenzoDResume.pdf'
-                  download='LorenzoDResume.pdf'
+                  href='../../assets/LorenzoDResume.zip'
+                  download='LorenzoDResume.zip'
                 >
                   Download <MDBIcon icon="download" />
                 </MDBBtn>
