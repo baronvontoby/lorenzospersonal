@@ -186,8 +186,8 @@ const ResumePage = () => {
                   outline
                   color="primary"
                   className="waves-effect"
-                  href='../../assets/LorenzoDResume.zip'
-                  download='LorenzoDResume.zip'
+                  href='./LorenzoDResume.pdf'
+                  download='LorenzoDResume.pdf'
                 >
                   Download <MDBIcon icon="download" />
                 </MDBBtn>
