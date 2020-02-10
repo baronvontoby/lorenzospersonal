@@ -1,6 +1,9 @@
 import React from 'react';
 import { MDBJumbotron, MDBContainer, MDBRow, MDBCol, MDBCardTitle, MDBCardBody, MDBCardText } from "mdbreact";
-import './MainPage.css'
+import './MainPage.css';
+import bioImg from '../../images/Bio_Photo.jpg';
+
+const images = [{bioImg}];
 
 class MainPage extends React.Component {
     render () {
@@ -14,7 +17,7 @@ class MainPage extends React.Component {
                                 <strong>A Little About Lorenzo Dandrea</strong>
                             </MDBCardTitle>
                             <MDBCardBody>
-                                <img id='me' src='https://media.licdn.com/dms/image/C4E03AQE5hCA7Q6KfnQ/profile-displayphoto-shrink_200_200/0?e=1571875200&v=beta&t=BcIfSSwI9lsaqWiINCADgGa_a0-_I5gWza5HQmjuiqI' className="img-fluid z-depth-2 rounded float-left" alt="alignment" />
+                                <img id='me' src={images[0].bioImg} className="img-fluid z-depth-2 rounded float-left" alt="alignment" />
                                 <MDBCardTitle className="indigo-text h5 m-4">
                                 A Coding Story
                                 </MDBCardTitle>
